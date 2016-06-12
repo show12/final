@@ -1,0 +1,33 @@
+#top{
+    border:1px solid #000;
+    text-align: center;
+}
+#left{
+    border:1px solid #000;
+    float: left;
+    width: 180px;
+    height: 550px;
+    text-align: center;
+}
+#right{
+    border:1px solid #000;
+    float: left;
+    width: 1026px;
+    overflow-y: scroll;
+    height: 550px;
+    text-align: center;
+}
+#footer{
+    text-align: center;
+    border:1px solid #000;
+}
+#box{
+    overflow:hidden;
+}
+#form2{
+    margin-top: 40px;
+}
+#form3{
+    margin-top: 288px;
+    border:1px solid #000;
+}
